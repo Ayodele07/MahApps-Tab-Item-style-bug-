@@ -29,8 +29,7 @@
                     MinHeight="{Binding ElementName=SettingTabs, Path=ActualHeight}">
             <TabItem MinWidth="130"
                      Name="NetworkSettingsTab"
-                     Header="Accounts"
-                     Content="{Binding Path=Test}"/>
+                     Header="Accounts"/>
             <TabItem MinWidth="130"
                      Name="StartupSettingsTab"
                      Header="Startup"
